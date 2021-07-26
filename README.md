@@ -32,6 +32,8 @@ Run as administrator
 
 ### Clarification
 
+# __ONLY USE THIS IF YOU ARE NOT STUPID ENOUGH TO CLICK GRABIFY AND IPLOGGER.ORG LINK AND STILL WANTED TO USE THEM_
+
 If you run netstat after running HostsMod, you will likely see connections to mvncentral.net. This is caused by HostsMod pointing everything to localhost (127.0.0.1). To prove this, open a command prompt window and type "ping mvncentral.net". The reply should be "Reply from 127.0.0.1". This shows that mvncentral.net now points to localhost.
 
 ### Known ratted cracks & proofs
