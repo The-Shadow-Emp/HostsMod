@@ -14,7 +14,7 @@ HostsMod also blocks grabify links as well as a few token loggers.
 
 ### Domains
 
-For a list of blocked domains, check out https://raw.githubusercontent.com/GardeningTool/HostsMod/main/domains.txt.
+For a list of blocked domains, check out https://github.com/The-Shadow-Emp/HostsMod/blob/main/domains.txt.
 
 ### Important
 
